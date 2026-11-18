@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qe5Ub8BW9kY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alved\\OneDrive\\Desktop\\TechGuildEventManager\\TechGuildEventManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alved\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\11.0.0\\microsoft.extensions.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\alved\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\11.0.0\\microsoft.extensions.dependencyinjection.abstractions.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
